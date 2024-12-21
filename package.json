@@ -1,0 +1,14 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": ["game"],
+  "author": "Romaxa",
+  "license": "ISC",
+  "description": "Browser based game",
+  "entry point": "index.js",
+  "repository": "https://github.com/goldik97/Home-works-new.git"
+}
